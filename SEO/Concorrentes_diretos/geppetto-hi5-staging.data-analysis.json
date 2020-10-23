@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "geppetto-hi5-staging",
+  "private_key_id": "d1a6b68f8cd2168b72c185aa846ad423edbda3ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2CENoQgvVsAbp\nULN7yRNNBj6GGaIbf+fYJ6WDZVC0mM8PSyOV183XdnGw4VW3n6W/oF9GPJDMpk2U\nhmgl1WP9PNiABtdHuisx2VWZkombsMVH1/25L7VYdGafAiETyk8K/umvFM4YZ/+M\n6xpr6NTHJ8i59Vv5AVD2HWWHM+65Hmd46pdwyrjdrf79MW9vKTgV3Bd7t7x5Cikk\nR1wWUyOW/1jqywdVAR3MRUsBrl5bGyS05ZK7Oo2H+zXKQg/ByMlVkL/M9s1+NNqi\nYpfKIvGwRZrh67wge7Ak3vKwNtuTtsdhdc45BxdAc1C6Swuk1zVczPxr5bqezhRF\niHGWOR/HAgMBAAECggEAM+mTX65GNcCnl+494XVsnbDEL/YrdvA5LDnSR/Ci3X4e\nvtvM4DTVLTdIIQuCKIXM/SM9SIiJOvPKeCsElJWQmG27yHcq+ferzeGPOebCe7Yj\n7OM6Jo/mhb1cbshqqnwtopMkDZw/UlKGXKfHtzKFS+6anf3NJuwrLKUhiTdUQ1Jf\nR5xuwzyRLxOOI3TfR8Pk+XSq4w5a1A5pAXRMAmCsMZn+esRX0wbtAjhoA+29zcHr\n/6p6X1CYasYRi0dOE9qWCA2ycAo5+WGu8kSsrjMPl9uTiMnI+fvslskduFqMVmzQ\nDTxDFNw0Z/G6BYwykpxlFAo3eloi+H5KGfKTipS9cQKBgQDbPN0JqEy94SBn/otk\n7A950DPexZtM7BFmPdLAauB1muhzG/tUHdLVOeFu3oJ5PngENBQc+88xvdvMNxSv\nT4ahcFiIGYqAoWPFAefyCS71h3Kw2n8S5y9o2r1A/uOx2XvSuR2MA9k+0SeNBJfj\niNtfIacR1x5TMiL8K/ryz86yfQKBgQDUjktuuPf9LtbFVQJSjOtFt/N/F1gMIYqm\nI1XS/zzlkGZXEq7mpLFrbdqjdDUMX/LnEByFF2WN/A5QYY3zWKK48ImEaJmcOrOo\nkhot1jbwiBzcG5GQfWpSe/BEj5lIc1hs6wSsl4jVAie2yiIMGep5HJzziAS4xupW\n6WlefRrKkwKBgCl1K/NMkR6C+ObRerid7xtA5N4mjgSQy4WDAVyDmWiD35sM2o0A\nisLpjBi0GQYmavmYg4krkPW+CldmvxGbv0C+Bu/NrKRAYKZ7gsoBNJEXiPeqiccg\nUpXIb2tgB9y03LZvbQfyHl3DnXAMQ1Cyq5Ekwvwbqs9etsDq7CyIYXTdAoGAa8p5\ngH327QNa0RmqItjp2yJNLm9VLFm6KUSUGntrk3NmItQLtFViz/sWvHuLB2qFER5/\niBL0YkunqqW+SeDyLF13L5moBK1UPLFS61nN5K7yC8FDUYX4bDoD/5DfB/nOpvWM\nGkaCkpsULsNU/tQJrz+ObIXW9ymQ32BhGhTRiFcCgYBoYqHnk2HZ+Ua5azerqu99\nuMsBXuC9AScoj9/G2fldOYmm5lMB5rfTPAuAuoDjjpo39SurkngboM8nKJG91HwI\nb96qnzUhZXhwqxoPZXN2T7/zOacwvi0FWazDuZmc7lOFxcvzE6+09Z4t+Kbsw5oA\nEuDy/xjSZLriXNH5166ORQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-analysis@geppetto-hi5-staging.iam.gserviceaccount.com",
+  "client_id": "100369139109884092901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-analysis%40geppetto-hi5-staging.iam.gserviceaccount.com"
+}
